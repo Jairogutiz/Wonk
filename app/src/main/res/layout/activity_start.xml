@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".StartActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:layout_marginTop="60dp"
+        app:srcCompat="@drawable/logo_name" />
+
+    <Button
+        android:id="@+id/playBtn"
+        android:layout_width="@dimen/answerBtn_width"
+        android:layout_height="@dimen/answerBtn_height"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button"
+        app:fontFamily="@string/mainFont"
+        android:onClick="startQuiz"
+        android:text="play"
+        android:textColor="@color/textColorWithinBtn" />
+
+    <Button
+        android:id="@+id/optionsBtn"
+        android:layout_width="@dimen/answerBtn_width"
+        android:layout_height="@dimen/answerBtn_height"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button"
+        app:fontFamily="@string/mainFont"
+        android:onClick="startQuiz"
+        android:text="Options"
+        android:textColor="@color/textColorWithinBtn" />
+
+    <Button
+        android:id="@+id/aboutBtn"
+        android:layout_width="@dimen/answerBtn_width"
+        android:layout_height="@dimen/answerBtn_height"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button"
+        app:fontFamily="@string/mainFont"
+        android:onClick="startQuiz"
+        android:text="About"
+        android:textColor="@color/textColorWithinBtn" />
+
+    <Button
+        android:id="@+id/extraBtn"
+        android:layout_width="@dimen/answerBtn_width"
+        android:layout_height="@dimen/answerBtn_height"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button"
+        app:fontFamily="@string/mainFont"
+        android:onClick="startQuiz"
+        android:text="Extra"
+        android:textColor="@color/textColorWithinBtn" />
+
+
+</LinearLayout>
