@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kyrgyzstan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\kyrgyzstan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -16,8 +20,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_tint_default.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bangladesh.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\bangladesh.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_italy.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\italy.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -28,8 +40,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turkey.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\turkey.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_south_sudan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\south_sudan.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -52,8 +72,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color\\mtrl_fab_ripple_color.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_malaysia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\malaysia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fiji.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\fiji.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
@@ -64,12 +92,32 @@
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\layout\\activity_play.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_malawi.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\malawi.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guatemala.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\guatemala.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mexico.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\mexico.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_niger.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\niger.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_north_korea.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\north_korea.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
@@ -78,6 +126,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_zealand.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\new_zealand.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -108,6 +160,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oman.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\oman.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_georgia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\georgia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -120,6 +180,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\2b0b3fa76869b5e5ba3ce740610c2fc6\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lithuania.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\lithuania.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -130,6 +194,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_estonia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\estonia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
@@ -150,6 +218,14 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qatar.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\qatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switzerland.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\switzerland.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
@@ -180,8 +256,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_india.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\india.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botswana.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\botswana.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saudi_arabia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\saudi_arabia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -192,6 +280,14 @@
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\gradient.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cuba.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\cuba.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cambodia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\cambodia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -200,8 +296,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indonesia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\indonesia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pakistan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\pakistan.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saint_vicent_and_the_grenadines.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\saint_vicent_and_the_grenadines.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tunisia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\tunisia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
@@ -228,12 +340,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_democratic_republic_of_the_congo.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\democratic_republic_of_the_congo.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flags.xml.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\layout\\activity_flags.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grenada.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\grenada.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
@@ -248,6 +372,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jamaica.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\jamaica.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stp.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\stp.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -256,12 +388,32 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hungary.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\hungary.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luxembourg.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\luxembourg.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zimbabwe.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\zimbabwe.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_micronesia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\micronesia.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cape_verde.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\cape_verde.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
@@ -282,6 +434,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_colored_ripple_color.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tonga.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\tonga.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_snackbar_background.xml.flat",
@@ -312,6 +468,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_republic_of_the_congo.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\republic_of_the_congo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gabon.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\gabon.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
     },
@@ -336,6 +500,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_papua_new_guinea.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\papua_new_guinea.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spain.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\spain.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
@@ -358,6 +530,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_panama.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\panama.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
@@ -392,8 +568,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chad.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\chad.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_belize.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\belize.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
@@ -412,6 +596,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lebanon.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\lebanon.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -426,6 +614,14 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_israel.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\israel.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uae.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\uae.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
@@ -456,8 +652,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maldives.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\maldives.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_germany.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\germany.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -492,8 +696,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sudan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\sudan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turkmenistan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\turkmenistan.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -512,6 +724,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable\\design_snackbar_background.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_haiti.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\haiti.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tuvalu.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\tuvalu.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -524,12 +744,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_south_korea.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\south_korea.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mongolia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\mongolia.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_colombia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\colombia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -546,6 +778,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brazil.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\brazil.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -572,8 +808,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uzbekistan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\uzbekistan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bolivia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\bolivia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -612,8 +856,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taiwan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\taiwan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mozambique.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\mozambique.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dominica.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\dominica.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_malta.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\malta.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -636,6 +896,10 @@
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\layout\\activity_result.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marshall_islands.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\marshall_islands.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_textfield_search_material.xml"
     },
@@ -654,6 +918,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brunei.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\brunei.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -676,6 +944,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_samoa.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\samoa.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
@@ -686,6 +958,14 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_portugal.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\portugal.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_central_african_republic.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\central_african_republic.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -706,6 +986,14 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sri_lanka.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\sri_lanka.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_swaziland.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\swaziland.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
@@ -744,12 +1032,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_philippines.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\philippines.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_finland.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\finland.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_equatorial_guinea.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\equatorial_guinea.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -766,6 +1066,14 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_san_marino.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\san_marino.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slovakia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\slovakia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -796,12 +1104,32 @@
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comoros.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\comoros.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_el_salvador.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\el_salvador.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_latvia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\latvia.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nauru.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\nauru.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ethiopia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\ethiopia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
@@ -828,16 +1156,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uganda.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\uganda.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -856,6 +1188,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\mtrl_layout_snackbar_include.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_palau.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\palau.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kenya.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\kenya.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
@@ -868,8 +1208,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ukraine.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\ukraine.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_state_list_anim.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cyprus.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\cyprus.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_united_kingdom.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\united_kingdom.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -884,6 +1236,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myanmar.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\myanmar.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
@@ -896,16 +1252,36 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jordan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\jordan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_togo.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\togo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eritrea.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\eritrea.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_belarus.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\belarus.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soloman_islands.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\soloman_islands.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -944,6 +1320,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_djibouti.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\djibouti.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
@@ -972,12 +1352,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_burkina_faso.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\burkina_faso.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_venezuela.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\venezuela.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
@@ -1012,6 +1400,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_morocco.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\morocco.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_screen_toolbar.xml"
     },
@@ -1028,6 +1420,10 @@
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kazakhstan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\kazakhstan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
@@ -1042,6 +1438,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_macedonia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\macedonia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -1076,12 +1476,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saint_kitts_and_nevis.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\saint_kitts_and_nevis.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_netherlands.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\netherlands.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mauritius.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\mauritius.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -1120,12 +1532,40 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poland.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\poland.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_show_motion_spec.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\animator\\design_fab_show_motion_spec.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paraguay.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\paraguay.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_russian_federation.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\russian_federation.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_suriname.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\suriname.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rwanda.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\rwanda.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_antigua_and_barbuda.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\antigua_and_barbuda.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bosnia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\bosnia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
@@ -1134,6 +1574,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ireland.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\ireland.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1146,6 +1590,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seychelles.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\seychelles.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
@@ -1180,6 +1628,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_algeria.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\algeria.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
@@ -1192,12 +1644,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\2b0b3fa76869b5e5ba3ce740610c2fc6\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bulgaria.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\bulgaria.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_japan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\japan.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
@@ -1210,6 +1670,14 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trinidad_and_tobago.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\trinidad_and_tobago.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_andorra.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\andorra.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1228,6 +1696,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_south_africa.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\south_africa.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\drawable\\notification_bg_low.xml"
     },
@@ -1240,6 +1712,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_costa_rica.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\costa_rica.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1248,12 +1724,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ivory_coast.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\ivory_coast.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cameroon.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\cameroon.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1270,6 +1754,22 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_madagascar.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\madagascar.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tajikistan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\tajikistan.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nigeria.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\nigeria.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slovenia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\slovenia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1292,8 +1792,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_honduras.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\honduras.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_senegal.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\senegal.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denmark.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\denmark.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_france.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\france.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1306,6 +1822,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dominican_republic.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\dominican_republic.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear.xml.flat",
@@ -1356,8 +1876,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armenia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\armenia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nicaragua.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\nicaragua.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1374,6 +1902,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kuwait.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\kuwait.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1396,8 +1928,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vietnam.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\vietnam.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_namibia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\namibia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
@@ -1424,6 +1964,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_greece.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\greece.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -1436,12 +1980,28 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iran.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\iran.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bahrain.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\bahrain.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_austria.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\austria.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_liberia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\liberia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
@@ -1468,6 +2028,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_croatia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\croatia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -1480,12 +2044,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laos.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\laos.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bahamas.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\bahamas.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thailand.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\thailand.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -1498,6 +2074,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vatican_city.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\vatican_city.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -1520,8 +2100,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sierra_leone.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\sierra_leone.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yemen.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\yemen.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
@@ -1572,6 +2160,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uruguay.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\uruguay.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_somalia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\somalia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\design_bottom_navigation_item.xml"
     },
@@ -1604,12 +2200,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_afghanistan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\afghanistan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\2b0b3fa76869b5e5ba3ce740610c2fc6\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_canada.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\canada.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1620,12 +2224,12 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
-        "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\tooltip_frame_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
@@ -1644,12 +2248,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_search_view.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zambia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\zambia.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
-        "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mali.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\mali.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1658,6 +2270,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_monaco.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\monaco.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1672,6 +2288,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_timor.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\timor.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
@@ -1682,6 +2302,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serbi.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\serbi.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -1708,6 +2332,14 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iraq.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\iraq.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_norway.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\norway.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\animator\\mtrl_chip_state_list_anim.xml"
     },
@@ -1720,12 +2352,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_syria.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\syria.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_libya.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\libya.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1744,8 +2384,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guinea_bissau.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\guinea_bissau.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nepal.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\nepal.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1754,6 +2402,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lesotho.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\lesotho.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -1766,6 +2418,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_burundi.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\burundi.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1788,6 +2444,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ecuador.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\ecuador.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
@@ -1808,8 +2468,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\layout\\notification_template_icon_group.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_liechtenstein.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\liechtenstein.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_china.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\china.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_belgium.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\belgium.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
@@ -1826,6 +2498,18 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mauritania.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\mauritania.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sweden.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\sweden.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peru.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\peru.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
@@ -1856,6 +2540,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_albania.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\albania.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -1864,8 +2552,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vanuatu.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\vanuatu.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c362138795df26f12fda1b632e8f125\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_egypt.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\egypt.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kosov.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\kosov.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1886,6 +2586,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ghana.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\ghana.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1916,6 +2620,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moldova.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\moldova.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_btn_colored_material.xml"
     },
@@ -1932,6 +2640,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_romania.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\romania.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
@@ -1942,6 +2654,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_legacy_text_color_selector.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_singapore.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\singapore.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
@@ -1956,6 +2672,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_azerbaijan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\azerbaijan.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
@@ -1964,8 +2684,16 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_czech_republic.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\czech_republic.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_argentina.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\argentina.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -2000,6 +2728,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guinea.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\guinea.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_color_selector.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color\\mtrl_btn_text_color_selector.xml"
     },
@@ -2010,6 +2742,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gambia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\gambia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -2032,12 +2768,28 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barbados.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\barbados.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_united_states_of_america.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\united_states_of_america.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iceland.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\iceland.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bhutan.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\bhutan.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
@@ -2054,6 +2806,14 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_australia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\australia.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chile.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\chile.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -2120,12 +2880,20 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_angola.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\angola.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tanzania.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\tanzania.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
@@ -2136,12 +2904,24 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\074b8b015bf85d81e860aabf883ba9b7\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_palestin.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\palestin.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_benin.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\benin.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color\\mtrl_chip_close_icon_tint.xml"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saint_lucia.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\saint_lucia.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -2160,6 +2940,10 @@
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_montenegr.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\montenegr.png"
+    },
+    {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_text_color.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d518e629f0a1281ddf270d1081a2758d\\res\\color\\mtrl_chip_text_color.xml"
     },
@@ -2170,6 +2954,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guyana.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\guyana.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -2206,6 +2994,10 @@
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
         "source": "C:\\Users\\Jairo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cf2ad83c6ca9380785bdc8b0bf69176\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kiribati.png.flat",
+        "source": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\src\\main\\res\\drawable\\kiribati.png"
     },
     {
         "merged": "C:\\Users\\Jairo\\Downloads\\the_project-20181109T074334Z-001\\the_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",

@@ -19,22 +19,18 @@
         android:textColor="@color/textColorOutsideBtn"
         android:textSize="22sp" />
 
+    <ImageView
+        android:id="@+id/imageFlag"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp"/>
 
-    <TextView
-        android:id="@+id/questionLabel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
-        android:fontFamily="@string/mainFont"
-        android:text="Question"
-        android:textColor="@color/textColorOutsideBtn"
-        android:textSize="24sp" />
 
     <Button
         android:id="@+id/answerBtn1"
         android:layout_width="@dimen/answerBtn_width"
         android:layout_height="@dimen/answerBtn_height"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="40dp"
         android:background="@drawable/button"
         android:fontFamily="@string/mainFont"
         android:onClick="checkAnswer"
@@ -62,8 +58,6 @@
         android:onClick="checkAnswer"
         android:text="Answer 3"
         android:textColor="@color/textColorWithinBtn" />
-
-
 
 
 
