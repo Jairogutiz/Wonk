@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "269403698311",
-    "firebase_url": "https://wonk-5c7f6.firebaseio.com",
-    "project_id": "wonk-5c7f6",
-    "storage_bucket": "wonk-5c7f6.appspot.com"
+    "project_number": "649047222411",
+    "firebase_url": "https://wonk-8c6a3.firebaseio.com",
+    "project_id": "wonk-8c6a3",
+    "storage_bucket": "wonk-8c6a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:269403698311:android:eb77b800460b7649",
+        "mobilesdk_app_id": "1:649047222411:android:1d4f4ce6abb14d1f",
         "android_client_info": {
-          "package_name": "com.example.jairo.quizz"
+          "package_name": "com.example.jairo.wonk"
         }
       },
       "oauth_client": [
         {
-          "client_id": "269403698311-jt4ptbci8uo0c5144au79mho6m8bhesa.apps.googleusercontent.com",
+          "client_id": "649047222411-qjfsh6kn2dviosifref8ivqj4plio44l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jairo.wonk",
+            "certificate_hash": "db6401b1e8acb1aaf3a52ef7eacfe2a472426f22"
+          }
+        },
+        {
+          "client_id": "649047222411-46l7sumqu6jt2k9vgo6qqh690o0st9no.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDusQStuRUd3-tAbH54TUG6BHBGJEvO25s"
+          "current_key": "AIzaSyBzsxt9xJoU6oYn33RgeeoM8lS-3Qi877Y"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649047222411-46l7sumqu6jt2k9vgo6qqh690o0st9no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

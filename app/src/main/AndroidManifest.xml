@@ -1,32 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jairo.quizz">
+    package="com.example.jairo.wonk">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" />
-        <activity android:name=".ResultActivity" />
-        <activity android:name=".StartActivity">
+
+        <meta-data android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id"/>
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+
+        <activity android:name=".Interface.ResultActivity" />
+        <activity android:name=".Interface.StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PlayActivity" />
+
+        <activity android:name=".Interface.LogInActivity">
+
+        </activity>
+        <activity android:name=".Interface.PlayActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name=".FlagsActivity"></activity>
+        <activity android:name=".Categories.CountriesActivities.Activities.FlagsActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.PopulationActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.EconomyActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.RichPoorActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.EducationActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.IntelligenceActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.SuicideActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.HomicideActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.AreaActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.ContinentActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.LifeExpectancyActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.CapitalActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.BigMacActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.ContinentImageActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.LanguageActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.FirstLetterActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.FirstLetterImageActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.CapitalImageActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.LifespanActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.SpeedActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.BiteStrengthActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.WeightActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.HumanKillsActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.WeightImageActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.LifeSpanImageActivity" />
+        <activity android:name=".Categories.OtherActivities.Activities.ElementsSymbolActivity" />
+        <activity android:name=".Categories.OtherActivities.Activities.ElementsFiveActivity" />
+        <activity android:name=".Categories.OtherActivities.Activities.ElementsCategoryActivity" />
+        <activity android:name=".Categories.OtherActivities.Activities.LanguageSentencesActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.CaloriesActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.CaloriesImageActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.CarbohydrateActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.CholesterolActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.FatActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.PotasiumActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.ProteinActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.SodiumActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.CarbohydratesImageActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.CholesterolImageActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.FatImageActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.PotasiumImageActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.ProteinImageActivity" />
+        <activity android:name=".Categories.FoodActivities.Activities.SodiumImageActivity" />
+        <activity
+            android:name=".Interface.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity android:name=".Interface.WonkActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.AgePickActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.AgeActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.NetWorthActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.InstagramFollowersActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.HeightActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.HeightGuessActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.FirstLetterNameImageActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.FirstLetterNameActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.CelebritiesImageActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.AgeImageActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.HeightImageActivity" />
+        <activity android:name=".Categories.CelebritiesActivities.Activities.InstagramFollowersImageActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.FlagsImageActivity" />
+        <activity android:name=".Categories.CountriesActivities.Activities.AreaImageActivity" />
+        <activity android:name=".Categories.AnimalsActivities.Activities.SpeedImageActivity" />
+        <activity android:name=".Interface.ReportAnError" />
+
     </application>
 
 </manifest>

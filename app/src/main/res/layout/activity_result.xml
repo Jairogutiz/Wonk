@@ -1,47 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ResultActivity"
+    android:background="@drawable/gradient"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    android:background="@drawable/gradient">
+    tools:context=".Interface.ResultActivity">
 
     <TextView
+        android:id="@+id/resultTitleText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="@font/quicksand_bold"
         android:text="RESULT"
-        android:textSize="20sp"
         android:textColor="@color/colorWhite"
-        android:layout_marginTop="60dp" />
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/resultLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/quicksand_bold"
         android:text="3/5"
         android:textSize="30sp"
-        android:layout_marginTop="60dp"/>
+        app:layout_constraintBottom_toTopOf="@+id/guideline7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/resultTitleText" />
 
-    <TextView
-        android:id="@+id/totalScoreLabel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Total Score : 333"
-        android:textSize="20sp"
-        android:textColor="@color/colorWhite"
-        android:layout_marginTop="60dp" />
 
     <Button
+        android:id="@+id/mainMenuBtn"
         android:layout_width="@dimen/answerBtn_width"
         android:layout_height="@dimen/answerBtn_height"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
         android:background="@drawable/button"
+        android:fontFamily="@font/quicksand_bold"
+        android:onClick="mainMenu"
+        android:text="Main Menu"
         android:textColor="@color/textColorWithinBtn"
-        android:text="Return"
         android:textSize="18sp"
-        android:layout_marginTop="80dp"
-        android:onClick="returnTop"/>
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline7" />
 
-</LinearLayout>
+
+    <Button
+        android:id="@+id/playAgainBtn"
+        android:layout_width="@dimen/answerBtn_width"
+        android:layout_height="@dimen/answerBtn_height"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/button"
+        android:fontFamily="@font/quicksand_bold"
+        android:onClick="playAgain"
+        android:text="Play Again"
+        android:textColor="@color/textColorWithinBtn"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainMenuBtn" />
+
+
+    <Button
+        android:id="@+id/LeaderboardBtn"
+        android:layout_width="@dimen/answerBtn_width"
+        android:layout_height="@dimen/answerBtn_height"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/button"
+        android:fontFamily="@font/quicksand_bold"
+        android:onClick="showLeaderboard"
+        android:text="Leaderboard"
+        android:textColor="@color/textColorWithinBtn"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/playAgainBtn" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.35" />
+
+
+</android.support.constraint.ConstraintLayout>
