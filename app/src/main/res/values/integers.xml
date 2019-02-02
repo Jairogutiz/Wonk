@@ -1,0 +1,5 @@
+<resources>
+
+    <integer name="rounds_per_activity">4</integer>
+
+</resources>
