@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jairo.wonk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.example.jairo.wonk.Interface.ResultActivity" />
+        <activity android:name="com.example.jairo.wonk.Interface.StartActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.jairo.wonk.Interface.LogInActivity" >
+        </activity>
+        <activity android:name="com.example.jairo.wonk.Interface.PlayActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.FlagsActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.PopulationActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.EconomyActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.RichPoorActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.EducationActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.IntelligenceActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.SuicideActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.HomicideActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.AreaActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.ContinentActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.LifeExpectancyActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.CapitalActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.BigMacActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.ContinentImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.LanguageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.FirstLetterActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.FirstLetterImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.CapitalImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.LifespanActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.SpeedActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.BiteStrengthActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.WeightActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.HumanKillsActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.WeightImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.LifeSpanImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.OtherActivities.Activities.ElementsSymbolActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.OtherActivities.Activities.ElementsFiveActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.OtherActivities.Activities.ElementsCategoryActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.OtherActivities.Activities.LanguageSentencesActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.CaloriesActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.CaloriesImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.CarbohydrateActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.CholesterolActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.FatActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.PotasiumActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.ProteinActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.SodiumActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.CarbohydratesImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.CholesterolImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.FatImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.PotasiumImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.ProteinImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.FoodActivities.Activities.SodiumImageActivity" />
+        <activity
+            android:name="com.example.jairo.wonk.Interface.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity android:name="com.example.jairo.wonk.Interface.WonkActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.AgePickActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.AgeActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.NetWorthActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.InstagramFollowersActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.HeightActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.HeightGuessActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.FirstLetterNameImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.FirstLetterNameActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.CelebritiesImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.AgeImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.HeightImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CelebritiesActivities.Activities.InstagramFollowersImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.FlagsImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.CountriesActivities.Activities.AreaImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Categories.AnimalsActivities.Activities.SpeedImageActivity" />
+        <activity android:name="com.example.jairo.wonk.Interface.ReportAnError" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+            Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <!--
+             FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.jairo.wonk.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.jairo.wonk.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
